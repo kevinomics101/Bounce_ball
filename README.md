@@ -1,5 +1,3 @@
-# WEEK-12-PROJECT
-
 # Bounce Ball
 The goal of the Bouncing Ball Game is to hit all targets as many times as you can to earn the highest score. Every time the ball hits the Target you earn 1 points, and if it hits 2 targets you earn 2 points, respectively. If the player fail to catch the ball on the bar then "game over" will appear on the game window.
 You play this game on a simulated terminal, with a textual interface.
@@ -30,9 +28,7 @@ README.md           (general info)
 * Python 3.8.0
 * Raylib Python CFFI 3.7
 
-## Authors
+## Author
 ---
 * [Kevin Cross Minchakpu](kevinomics101@gmail.com) 
-* [John Mark Manuel](  ) 
-* [Mathew Bermudez](   ) 
-* [Peter Otim](   ) 
+
